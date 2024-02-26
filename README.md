@@ -1,5 +1,5 @@
 # ai-case-study
-![<Palantir image>](<https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.palantir.com%2F&psig=AOvVaw03BnBez4rRRNHGmXG_2HER&ust=1709075652956000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLCA24uRyoQDFQAAAAAdAAAAABAI>)
+![<Palantir image>](<https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Palantir_Technologies_logo.svg/1280px-Palantir_Technologies_logo.svg.png>)
 
 # **Case Study: Palantir Technologies Inc.**
 ### By: Kyle Kerner
